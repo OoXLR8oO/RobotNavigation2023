@@ -1,0 +1,1 @@
+"C:\Users\Kartik\AppData\Local\Programs\Python\Python310\python.exe" -m Main %1 %2
